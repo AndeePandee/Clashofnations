@@ -1,7 +1,7 @@
 Mundialito [![Build Status](https://travis-ci.org/ezraroi/Mundialito.svg?branch=master)](https://travis-ci.org/ezraroi/Mundialito)
 ==========
 
-Mundialito Web App Code
+Clash of Nations
 
 <h2>Rules</h2>
 The competition has several rules:
