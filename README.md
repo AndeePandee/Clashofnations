@@ -1,8 +1,6 @@
 Clash of Nations [![Build Status](https://travis-ci.org/ezraroi/Mundialito.svg?branch=master)](https://travis-ci.org/ezraroi/Mundialito)
 ==========
 
-Clash of Nations
-
 <h2>Rules</h2>
 The competition has several rules:
 
