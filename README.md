@@ -21,7 +21,8 @@ Clash of Nations [![Build Status](https://travis-ci.org/ezraroi/Mundialito.svg?b
 <li>X – Båda lagen får lika många gula kort/hörnor 
 <li>2 – Fler gula kort/hörnor för bortalaget
   </li></li>
- 
+
+  </ul>
 
 ”Golden Boot”-spelaren är alltså den spelare som lyckas göra flest mål under turneringen. 
 
