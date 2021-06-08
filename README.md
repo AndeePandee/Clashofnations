@@ -18,8 +18,8 @@ The competition has several rules:
 <ul>  
 <li>Ordinarie spel 
 <li>Ett bet kan göras fram till 30 minuter före spelets starttid. När spelet är stängt för vadslagning kommer andra användares spel att visas </li>
-</li></ul>
-<ul>
+</li>
+
 <li>Poängsättning 
   <li>Gissa det vinnande laget i matchen (1, X, 2) - 3 poäng </li>
   <li>Gissa resultatet - 5 poäng </li>
