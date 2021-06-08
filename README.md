@@ -5,7 +5,8 @@ Clash of Nations [![Build Status](https://travis-ci.org/ezraroi/Mundialito.svg?b
 
 <ul>
 <li>Turneringsspel<ul> 
-<li>Spel på det vinnande laget och "Golden Boot"-spelaren i turneringen måste placeras 1 dag före turneringens startdatum och motsvarar 12 poäng vardera</li> 
+<li>Spel på det vinnande laget och "Golden Boot"-spelaren i turneringen måste placeras 1 dag före turneringens startdatum och motsvarar 12 poäng vardera</li>
+  <li>”Golden Boot”-spelaren är alltså den spelare som lyckas göra flest mål under turneringen</li>
 </ul>
 
 <li>Ordinarie spel<ul>
@@ -21,8 +22,3 @@ Clash of Nations [![Build Status](https://travis-ci.org/ezraroi/Mundialito.svg?b
 <li>X – Båda lagen får lika många gula kort/hörnor 
 <li>2 – Fler gula kort/hörnor för bortalaget
   </li></li>
-
-  </ul></ul> </ul>
-
-”Golden Boot”-spelaren är alltså den spelare som lyckas göra flest mål under turneringen. 
-
