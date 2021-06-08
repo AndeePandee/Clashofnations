@@ -12,9 +12,9 @@ The competition has several rules:
 <h2>Regler</h2>
 
 <ul>
-<li>Turneringsspel 
+<li>Turneringsspel<ul> 
 <li>Spel på det vinnande laget och "Golden Boot"-spelaren i turneringen måste placeras 1 dag före turneringens startdatum och motsvarar 12 poäng vardera</li> 
-</li>
+</li></ul>
 
 <li>Ordinarie spel 
 <li>Ett bet kan göras fram till 30 minuter före spelets starttid. När spelet är stängt för vadslagning kommer andra användares spel att visas </li>
